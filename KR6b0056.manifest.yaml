@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6b0056/v1
 canonical_location: https://kanripo.org/bkk/KR6b0056/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛五百弟子自說本起經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6b0056_000.yaml, hash: 'sha256:0908758f141677fb9d3a8d339ff29a35228019f64b1efcb901fbfedd0e1904fe'}
-  - {seq: 1, filename: KR6b0056_001.yaml, hash: 'sha256:1116739fe2cada5af041ddb4148321db7775f95ac0e334d28584fd04bce778b7'}
+  - {seq: 1, filename: KR6b0056_001.yaml, hash: 'sha256:ba0b4b72c5e348b2e4b2b9a0597810fb2d76269b1357e7de048a7ec0ba06335d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6b0056_000.markers.yaml, hash: 'sha256:bb7d5640a492e484817b8ebeeccde729db33baf8a96f86846a6d16bbc14157a3'}
-  - {seq: 1, role: markers, filename: assets/KR6b0056_001.markers.yaml, hash: 'sha256:91e75d6fe2245e0d87db67517b2d40442543128e7ea20ab13597be39a7ad30b1'}
+  - {seq: 1, role: markers, filename: assets/KR6b0056_001.markers.yaml, hash: 'sha256:ae045efde7c4e67a642e712858b258338c3d681d94c3633891743c0119a89312'}
 table_of_contents:
 - ref:
     seq: 1
@@ -349,4 +349,7 @@ table_of_contents:
   label: 30 世尊品
   type: mulu
   level: 1
-hash: sha256:65b9e0de6c0f96aca944c7362f6e98d6a1ffeef4065aa4ef423fd9fd2202792a
+hash: sha256:8b75ff185c000e1a2eaae45f16f0af8e56be1976cadd58835f5fa3e0c374a497
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
